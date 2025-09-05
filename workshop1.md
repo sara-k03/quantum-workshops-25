@@ -6,5 +6,4 @@
     - Interference 
     - Entanglement --> Ex: 2 qubits are in a superposition and they are entangled. This results in correlations between measuring the state of the qubit. 
 - Bloch Sphere
-![Bloch Sphere](bloch-sphere.png "Bloch Sphere")
-<img src="bloch-sphere.png" width="100">
+<img src="bloch-sphere.png" width="400">
